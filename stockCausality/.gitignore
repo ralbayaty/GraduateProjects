@@ -1,0 +1,7 @@
+# Ignore external code and data for now
+External/*
+Data/*
+
+# Ignore backups
+*~
+
